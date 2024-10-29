@@ -22,5 +22,31 @@ $ git commit -m "Pujada Versio 2"
 
 $ git push
 
+$ git pull (repositorio Yasin para actualizar el git)
 
+$ git status -s
+
+$ git add .
+
+$ git commit -m "Pujada Versio 3"
+
+$ git push
+
+$ git pull (repositorio Coba para actualizar el git)
+
+$ git status -s
+
+$ git add .
+
+$ git commit -m "Pujada Versio 3 - continuació"
+
+$ git push
+
+$ git status -s
+
+$ git add .
+
+$ git commit -m "Pujada Versio 3 - continuación sergio"
+
+$ git push
 
