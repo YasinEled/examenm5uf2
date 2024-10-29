@@ -1,0 +1,13 @@
+mkdir examenm5uf2
+
+cd examenm5uf2
+
+nano README.MD
+
+nano COPYLEFT
+
+mkdir DOCS
+
+cd DOCS
+
+nano EXAMENv1.TXT
