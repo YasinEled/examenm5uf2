@@ -50,3 +50,20 @@ $ git commit -m "Pujada Versio 3 - continuación sergio"
 
 $ git push
 
+$ git pull (repositorio Yasin para actualizar el git)
+
+$ git add .
+
+$ git commit -m "ActualitzarFitxer"
+
+$ git pull (repositorio Yasin para actualizar el git)
+
+$ git checkout -b P1
+
+$ git checkout master
+
+$ git checkout -b P2
+
+$ git checkout master
+
+
